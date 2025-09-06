@@ -1,0 +1,160 @@
+{
+    "basic": {
+        "firstName": "Taizul",
+        "lastName": "Islam",
+        "age": 32,
+        "email": "mdtaizulislam50@gmail.com",
+        "phone": "+880 172 3733950",
+        "address": "Dhaka, Bangladesh",
+        "photos": [
+            "images/photos/bw.png",
+            "images/photos/colored.png",
+            "images/photos/mobile.png"
+        ],
+        "resume": "https://drive.google.com/file/d/1QDosbrpcUTc1DhK4tH_cied56uZMYge5/view?usp=sharing"
+    },
+    "socials": [
+        {
+            "icon": "fa-brands fa-square-facebook",
+            "url": "https://www.facebook.com/taizul.islam.792"
+        },
+        {
+            "icon": "fa-brands fa-linkedin",
+            "url": "https://www.linkedin.com/in/taizul-islam-b82b45124"
+        },
+        {
+            "icon": "fa-brands fa-github",
+            "url": "https://github.com/Taizul-islam"
+        },
+        {
+            "icon": "fa-brands fa-x-twitter",
+            "url": "https://x.com/taiflutterdev?t=UUCSzqUSfg3QBCbxI5eETw&s=09"
+        },
+        {
+            "icon": "fa-brands fa-instagram",
+            "url": "https://www.instagram.com/taizul506?igsh=YXJ5MDJjeDJid2Zw"
+        },
+        {
+            "icon": "fa-brands fa-medium",
+            "url": "https://medium.com/@mdtaizulislam50"
+        }
+    ],
+    "about": {
+        "heading": "I'm Taizul Islam, a Flutter Developer | Full-Stack Mobile Engineer",
+        "description": "Flutter Developer and Full-Stack Mobile Engineer with expertise in building cross-platform applications using Flutter and Dart, along with native Android (Kotlin) and iOS (Swift) development. Skilled in backend management with Python, FastAPI, and PostgreSQL, and experienced in integrating cloud services like Firebase. Strong ability to convert Figma and Adobe XD designs into pixel-perfect UI, combined with version control (Git) and agile workflows. Passionate about creating scalable, user-centric mobile and web solutions.",
+        "tech": [
+            "Flutter",
+            "Dart",
+            "Kotlin",
+            "Swift",
+            "Python",
+            "FastAPI",
+            "PostgreSQL",
+            "Firebase",
+            "Jaspr",
+            "REST APIs",
+            "Pixel-perfect implementation from Figma"
+        ],
+        "works": [
+            {
+                "image": "images/work/boighor.png",
+                "url": "https://chorui.com/",
+                "height": 50
+            },
+            {
+                "image": "images/work/technovicinity.png",
+                "url": "https://technovicinity.com/",
+                "height": 30
+            },
+            {
+                "image": "images/work/next.jpeg",
+                "url": "https://technonext.com/",
+                "height": 60
+            },
+            {
+                "image": "images/work/it.png",
+                "url": "https://www.indeed.com/cmp/IT-Grow-Division-Ltd",
+                "height": 60
+            }
+        ]
+    },
+    "services": [
+        {
+            "icon": "images/services/flutter.png",
+            "title": "Flutter App Development"
+        },
+        {
+            "icon": "images/services/cross-platform.png",
+            "title": "Native Android (Kotlin) & iOS (Swift)"
+        },
+        {
+            "icon": "images/services/backend1.png",
+            "title": "Backend Development (FastAPI, Python, PostgreSQL)"
+        },
+        {
+            "icon": "images/services/firebase.png",
+            "title": "Cloud & Firebase Integration"
+        },
+        {
+            "icon": "images/services/ui.png",
+            "title": "Pixel-Perfect UI from Figma/Adobe XD"
+        }
+    ],
+    "projects": [
+        {
+            "banner": "images/projects/playstory.png",
+            "icon": "images/projects/play_story_logo.png",
+            "title": "PlayStory",
+            "description": "Kids can generate AI-based stories, publish, view sequential chapters.\nIAP for tokens, Flutter, Firebase, Node.js.",
+            "link": "https://apps.apple.com/us/app/playstory-kids-story-game/id6747417928"
+        },
+        {
+            "banner": "images/projects/metacarwash.png",
+            "icon": "images/projects/meta_logo.webp",
+            "title": "Meta Car Wash",
+            "description": "Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter. Powered with live RestAPI given in README.md",
+            "link": "https://apps.apple.com/us/app/meta-car-wash/id6737323430"
+        },
+        {
+            "banner": "images/projects/theforexsignals.png",
+            "icon": "images/projects/forex_logo.webp",
+            "title": "the forex signals",
+            "description": "Your one-stop platform for forex and crypto trading success. Access high-accuracy trading signals, real-time insights, and expert mentorship to gain the edge you need in volatile markets with our dedicated App.",
+            "link": "https://apps.apple.com/us/app/the-forex-signals/id6502011903"
+        },
+        {
+            "banner": "images/projects/forextrading.png",
+            "icon": "images/projects/unnamed.webp",
+            "title": "Forex Trading Strategies",
+            "description": "Proven strategies with examples and charts",
+            "link": "https://play.google.com/store/apps/details?id=com.instaforex.android.forexstrategies"
+        },
+        {
+            "banner": "images/projects/divisionps.png",
+            "icon": "images/projects/divisionpslogo.webp",
+            "title": "Division Store",
+            "description": "The First App in Palestine that provides all digital and gift cards",
+            "link": "https://play.google.com/store/apps/details?id=com.division.app"
+        }
+    ],
+    "contact": [
+        {
+            "icon": "fa-duotone fa-solid fa-house",
+            "title": "Location",
+            "description": "Dhaka, Bangladesh",
+            "action": "https://maps.app.goo.gl/G9jAzyE7FexDhfXy6"
+        },
+        {
+            "icon": "fa-duotone fa-solid fa-phone",
+            "title": "Phone",
+            "description": "+880 172 3733950",
+            "action": "https://wa.me/8801723733950"
+        },
+        {
+            "icon": "fa-duotone fa-solid fa-envelope",
+            "title": "Email",
+            "description": "mdtaizulislam50@gmail.com",
+            "action": "mailto:mdtaizulislam50@gmail.com"
+        }
+    ]
+}
